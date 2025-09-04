@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Full Stack Developer from India</h3>
 
 <p align="center">
-<img align="right" alt="Coding" width="400"  src="https://media.licdn.com/dms/image/v2/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=tgAv-o8rHSfUFWzGQT2nCOfZkc2Hdluh-9xTR3Opu-w">
+<img align="right" alt="Coding" width="400"  src="https://media1.tenor.com/m/4ryx66tWEhcAAAAd/pixel-study.gif">
 </p>
 
 ---
@@ -53,10 +53,8 @@
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=punitsingh-1124&show_icons=true&locale=en&layout=compact" alt="punitsingh-1124" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palak-singh26&show_icons=true&locale=en&layout=compact" alt="palak-singh26" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=punitsingh-1124&show_icons=true&locale=en" alt="punitsingh-1124" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palak-singh26&show_icons=true&locale=en" alt="palak-singh26" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=punitsingh-1124&" alt="punitsingh-1124" /></p>
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palak-singh26&" alt="palak-singh26" /></p>
